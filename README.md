@@ -1,30 +1,30 @@
 # 📜 Faisal Khalil — Certificates
 
-Welcome to my certificates repository.
+A collection of my professional and technical certificates earned throughout my learning and development journey.
 
-This repository contains my professional and technical certificates earned during my learning and development journey.
-
-## 🎓 Full Stack Web & Mobile App Development
+## 🎓 Web & Mobile App Development
 
 **Institute:** Saylani IT Training Programme (SMIT)
 **Program:** Web and Mobile App Development — Batch 3
 **Duration:** 18 Months
 **Period:** November 2024 – April 2026
-**Certificate:** Successfully Completed
+**Status:** Successfully Completed
 
 ### 📄 Certificate
 
-You can view the certificate in this repository:
+[**View Certificate →**](./Faisal_Khalil_Full_Stack_Certificate.pdf)
 
-**[View Certificate](./CERT-322268%20%281%29.pdf)**
+## 👨‍🏫 Instructor
 
----
+**Muhammad Osama — Software Engineer**
 
-### 🔗 Connect With Me
-
-* **GitHub:** [faisalkhalildev](https://github.com/faisalkhalildev)
-* **Certificate Repository:** [Faisal_khalil_Certificate](https://github.com/faisalkhalildev/Faisal_khalil_Certificate)
+* [LinkedIn](https://www.linkedin.com/in/xamqrexii/)
+* [GitHub](https://github.com/xamQrexii)
 
 ---
 
-> This repository is maintained as a public record of my professional learning and achievements.
+### 🔗 My Profile
+
+* [GitHub](https://github.com/faisalkhalildev)
+
+> This repository serves as a public record of my professional learning and achievements.

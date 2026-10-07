@@ -22,6 +22,14 @@ A collection of my professional training certificates, technical certifications,
 📄 **[View Certificate →](./claude-academy-badge-claude-code-101.pdf)**
 🔗 **[Verify Certificate →](https://academy.claude.com/verify/f09004650c72a097b886ac773792f766)**
 
+### 3. Claude 101
+
+**Platform:** Claude Academy
+**Certificate:** Claude 101
+
+📄 **[View Certificate →](./claude-academy-badge-claude-101.pdf)**
+🔗 **[Verify Certificate →](https://academy.claude.com/verify/3d0f95fddf626158f7fc488be2b2954d)**
+
 ---
 
 ## 👨‍🏫 Instructor
